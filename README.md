@@ -7,4 +7,3 @@ I have no interest in ordinary humans. If any of you are aliens, future people, 
 Ask me about anything [Here](https://github.com/Zervan29131/Zervan29131/issues)  
 Or visit my [Blog](https://zervan.cn)  
 
-![snake](https://raw.githubusercontent.com/zervan29131/zervan29131/main/assets/github-contribution-grid-snake.svg)
